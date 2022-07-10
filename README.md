@@ -1,2 +1,2 @@
 # UharBook
-a finay year project
+final year project
